@@ -1,4 +1,4 @@
-# Syllabus
+# Neuro Data Analysis in Python - Syllabus
 
 * **Course**: NEU 337 (55000) Neuro Data Analysis in Python
 * **Semester**: Fall 2018
