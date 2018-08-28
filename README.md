@@ -59,7 +59,7 @@ There are several components to the class grade.
 * Final exam (30%): There will be a take-home open book final exam.
 * Class participation (10%): Showing up for class, demonstrating preparedness (i.e., doing the readings), and contributing to class discussions. Attendance is required.
 
-Grading scale for problem sets: problem sets will be returned with feedback less than 2 weeks after the due date.
+Problem sets will be returned with feedback less than 2 weeks after the due date.
 
 ## Course Policies & Resources
 
